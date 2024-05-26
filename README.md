@@ -10,7 +10,7 @@ To run the weather app locally, follow these steps:
 
 1. Clone this repository to your local machine:
 
-        git clone https://github.com/your-username/weather-app.git
+        git clone https://github.com/BongumusaMtetwa/weather-app.git
    
 2. Navigate to the project directory:
    
